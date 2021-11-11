@@ -4,4 +4,5 @@ Moneyball assignment utilizing pandas, split into 4 problems.
 2) Work with pandas dataframe and its various functions.
 3) Using pandas to load to player data into dataframe and complete various functions for filtering data.
 4) Using dataframes created in previous problems, players were rank based upon different stats including BA, OBP, 1B, TB, and SLG.  
+  
 Test files were created to test the solutions in each problem.
