@@ -5,3 +5,5 @@ where users vote for one picture and responses are collected.
   
 The final two problems worked with pandas to create dataframes to compute winning probability of opposing players and the ratings of players based on those probabilities. 
 Then using these calculations, load CSVs and compute and rank Elo ratings for NCAA teams. 
+  
+Test cases were created for all code in four separate files.
